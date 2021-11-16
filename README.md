@@ -9,12 +9,7 @@ Highly interested in Web development, Software development, Software testing.
 Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB
 
 - 🔭 I’m currently working on Fiverr as a freelancer 
-- 🌱 I’m currently learning Node 
-- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rakibul-Hasan-max)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibulhasan-bd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rakibul_h4041)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14316236/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rakibul.netlify.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-max&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-max" /> </p>
 
