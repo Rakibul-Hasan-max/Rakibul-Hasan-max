@@ -1,6 +1,7 @@
 ![Web Application Developer](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
 
-### Hi there 👋, I'm Rakibul Hasan
+### Hi there 👋, 
+###I'm Rakibul Hasan
 #### Web Application Developer
 
 CSE undergrad student at CQUT in China. I am an enthusiastic software developer with expertise in web application development.
@@ -12,10 +13,6 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB
 - 💬 Ask me about Web development 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-max&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-max" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul-hasan-max" alt="rakibul-hasan-max" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rakibul_h4041" target="blank"><img src="https://img.shields.io/twitter/follow/rakibul_h4041?logo=twitter&style=for-the-badge" alt="rakibul_h4041" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
