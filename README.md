@@ -2,15 +2,15 @@
 
 ### Hi there 👋, I'm Rakibul Hasan
 
-#### Web Application Developer
+#### Web Application Developer || App Developer || AI & ML Enthusiast
 
-CSE undergrad student at CQUT in China. I am an enthusiastic software developer with expertise in web application development.
+CSE undergrad student at CQUT in China. I am an enthusiastic software developer with expertise in web application development and app development.
 Highly interested in Web development, Software development, Software testing.
 
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB
+Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB / React Native
 
 - 🔭 I’m currently working on Fiverr as a freelancer 
-- 💬 Ask me about Web development 
+- 💬 Ask me about software development 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-max&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-max" /> </p>
 
