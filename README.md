@@ -23,22 +23,16 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB / React Native
 <h3 align="left">Connect with me:</h3>
 
 <p left="center">
-<a href="https://twitter.com/rakibul_h4041">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
 <a href="https://linkedin.com/in/rakibulhasan-bd">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
+</a>
+<a href="https://twitter.com/rakibul_h4041">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a>
 <a href="https://www.facebook.com/rakibulhasan321">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://stackoverflow.com/users/14316236">
-  <img src="https://img.shields.io/badge/-stackoverflow-green" height=25>
-</a>
-<a href="https://medium.com/r">
+<a href="https://medium.com/@rakibul_hasan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="https://www.hackerrank.com/rakibulhasan4041">
-  <img src="https://img.shields.io/badge/-HACKERRANK-green" height=25>
 </a>
 </p>
