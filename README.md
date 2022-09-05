@@ -7,10 +7,10 @@
 CSE undergrad student at CQUT in China. I am an enthusiastic software developer with expertise in web application development and app development.
 Highly interested in Web development, Software development, Software testing.
 
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGO DB / React Native
+SKILLS: HTML / CSS / JAVASCRIPT / REACT / NODE / EXPRESS / MONGO DB / REACT NATIVE
 
-- 🔭 I’m currently working on Fiverr as a freelancer 
-- 💬 Ask me about software development 
+- 🔭 Available for freelance, contract, part-time and full-time work.
+- 💬 Ask me about software development, software design, bug fixing and software testing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-max&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-max" /> </p>
 
