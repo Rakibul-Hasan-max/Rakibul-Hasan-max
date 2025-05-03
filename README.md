@@ -89,6 +89,9 @@ I'm currently studying
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- Snake Animation -->
+<div align="center">
+
+  ![snake gif](https://github.com/Rakibul-Hasan-max/Rakibul-Hasan-max/blob/output/github-snake-dark.svg)
+</div>
